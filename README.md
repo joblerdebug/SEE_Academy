@@ -1,4 +1,4 @@
-# Step 1: Get the first number (decimals allowed)
+# Step 1: Get the first number (decimals allowed everytime)
 num1 = float(input("Enter the first number: "))
 
 # Step 2: Get the second number
